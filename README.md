@@ -81,9 +81,6 @@ movie-recommendation-chatbot/
 ├── app.py
 ├── templates/
 │   └── index.html
-├── static/
-│   └── css/
-│       └── styles.css
 ├── README.md
 ```
 
