@@ -1,4 +1,3 @@
-# Flick-Finder
 Movie Recommendation Chatbot
 This repository contains a movie recommendation system integrated with a Rasa chatbot. The system recommends movies based on user input, can search for movies by genre, and provides details about specific movies. The project consists of three main components:
 
