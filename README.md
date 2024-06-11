@@ -72,18 +72,20 @@ Before running the application, ensure you have the following installed:
 
 ## Repository Structure
 
+```plaintext
 movie-recommendation-chatbot/
 ├── data/
-│ └── movies_metadata.csv
+│   └── movies_metadata.csv
 ├── movie_recommandation.ipynb
 ├── rasa.ipynb
 ├── app.py
 ├── templates/
-│ └── index.html
+│   └── index.html
 ├── static/
-│ └── css/
-│ └── styles.css
+│   └── css/
+│       └── styles.css
 ├── README.md
+```
 
 ## Usage
 
