@@ -34,6 +34,7 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/movie-recommendation-chatbot.git
 cd movie-recommendation-chatbot
+'''
 
 Open the Jupyter Notebook movie_recommendation.ipynb:
 
@@ -41,6 +42,7 @@ Open the Jupyter Notebook movie_recommendation.ipynb:
 複製程式碼
 jupyter notebook movie_recommendation.ipynb
 Execute all cells in movie_recommendation.ipynb to generate movie embeddings and save them to movie_embeddings.pkl.
+'''
 
 ### Step 2: Initialize and Train the Rasa Model
 Open the Jupyter Notebook rasa.ipynb:
